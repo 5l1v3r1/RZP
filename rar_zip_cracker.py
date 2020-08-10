@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#Bu araç bana ait değildir...
+#PcDünyasına Aittir...
+
 import os
 
 os.system("sudo apt install figlet")
